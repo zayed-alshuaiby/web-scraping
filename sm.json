@@ -1,0 +1,37 @@
+{
+    "alltopec": {
+        "marebpress": "content_topics",
+        "aljazeera": "topics-page",
+        "shorouknews": "listing",
+        "youm7": "paging",
+        "ziid" : "tipps",
+        "mhtwyat": "categories-list",
+        "mawdoo3":"categories-list",
+        "co": "views-infinite-scroll-content-wrapper",
+        "noonpost": "is-gap-15"
+    },
+    "pClass":{
+        "aljazeera":"u-clickable-card__link",
+        "mawdoo3":"category-box",
+        "marebpress":"newstitle",
+        "ziid":"item-thumb-link",
+        "youm7":"bigOneImg",
+        "mhtwyat":"category-box"
+    
+    },
+    "info":{
+        "aljazeera":"article-b-l",
+        "youm7":"writeBy",
+        "marebpress":"posted",
+        "ziid":"c-x-ofst-2",
+        "mawdoo3":"article-author"
+    },
+    "content":{
+        "aljazeera":"wysiwyg",
+        
+        "marebpress":"details",
+        "ziid":"pull-t-0",
+        "mawdoo3":"mw-content-rtl"
+    }
+ 
+}
